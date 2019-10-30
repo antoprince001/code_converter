@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Convertorapp</string>
+    <string name="Decimal">Decimal:</string>
+    <string name="octal">Octal:</string>
+    <string name="hx">Hexadecimal:</string>
+    <string name="input">Input:</string>
+</resources>
