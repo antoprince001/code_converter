@@ -1,6 +1,6 @@
 # code_converter
 A mobile based android application to perform conversions among different numbering systems.
-The app is coded using java for the activity and the layouts in xml.
+The app is coded using java for the activities and the xml for the layouts.
 
 Features:
 The app can be used to perform conversion from
